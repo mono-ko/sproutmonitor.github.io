@@ -1,3 +1,8 @@
 body {
     background-color:#AFA0B3;
 }
+
+h1 {
+    border: 3px #AFA0B3;
+    padding: 20px;
+}
